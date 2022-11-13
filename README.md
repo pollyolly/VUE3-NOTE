@@ -8,7 +8,7 @@ $cd vue-demo
 $npm install
 $npm run dev
 ```
-Sample
+ref
 ```
 App.vue
 <script setup>
