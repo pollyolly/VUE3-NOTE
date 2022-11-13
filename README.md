@@ -8,7 +8,7 @@ $cd vue-demo
 $npm install
 $npm run dev
 ```
-Composition Api
+Composition Api (New)
 ```
 //Composition Api
 <script setup>
