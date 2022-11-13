@@ -11,7 +11,7 @@ $npm run dev
 Composition Api (New)
 ```
 //Composition Api
-<script setup>
+<script setup> //setup Composition Api
 import {ref} from 'vue';
 const count = ref(0)
 const substractButton = () =>{
@@ -25,7 +25,7 @@ const addButton = () => {
 ```
 Options Api
 ```
-<script setup>
+<script>
 //Options Api
 export default ({
      data(){
