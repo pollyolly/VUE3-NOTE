@@ -59,3 +59,8 @@ export default ({
 <style scoped>
 </style>
 ```
+### References
+
+[VUE3 DEMO](https://github.com/pollyolly/VUE3-DEMO/blob/main/App.vue)
+
+[VUE PATTENRS](https://learn-vuejs.github.io/vue-patterns/patterns/#handling-errors)
