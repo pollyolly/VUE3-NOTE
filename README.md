@@ -64,3 +64,5 @@ export default ({
 [VUE3 DEMO](https://github.com/pollyolly/VUE3-DEMO/blob/main/App.vue)
 
 [VUE PATTENRS](https://learn-vuejs.github.io/vue-patterns/patterns/#handling-errors)
+
+[PINIA](https://www.youtube.com/watch?v=JGC7aAC-3y8)
