@@ -23,6 +23,32 @@ const addButton = () => {
 </script>
 
 ```
+```
+//Composition Api
+<script>
+import {ref} from 'vue';
+setup(){  //setup Composition Api
+     const count = ref(0)
+     const substractButton = () =>{
+          count.value = count.value - 1;
+     }
+     const addButton = () => {
+          count.value = count.value + 1;
+     }
+     return {
+          count,
+          substractButton,
+          addButton
+     }
+ },
+ methods: {
+      add(){
+           this.addButton();  
+      }
+ }
+</script>
+
+```
 Options Api
 ```
 <script>
