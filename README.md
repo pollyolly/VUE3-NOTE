@@ -96,6 +96,8 @@ export default ({
 ```
 ### Use Cases
 [Computed](https://vuejs.org/guide/essentials/computed.html#basic-example)
+
+[Writable Computed](https://vuejs.org/guide/essentials/computed.html#writable-computed)
 ``` 
 - Use for existing Data
 - Do not use for fetching Data
