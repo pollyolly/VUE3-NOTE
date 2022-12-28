@@ -86,11 +86,13 @@ export default ({
 </style>
 ```
 ### Use Cases
-```
-computed() 
+[Computed](https://vuejs.org/guide/essentials/computed.html#basic-example)
+``` 
 - Use for existing Data
 - Do not use for fetching Data
-Watch()
+```
+[Watch](https://vuejs.org/api/reactivity-core.html#watch)
+```
 - Can be used for fetching Data
 - Can monitor state,ref, variable etc. changes
 
