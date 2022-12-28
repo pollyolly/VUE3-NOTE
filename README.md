@@ -85,6 +85,16 @@ export default ({
 <style scoped>
 </style>
 ```
+### Use Cases
+```
+computed() 
+- Use for existing Data
+- Do not use for fetching Data
+Watch()
+- Can be used for fetching Data
+- Can monitor state,ref, variable etc. changes
+
+```
 ### References
 
 [VUE3 DEMO](https://github.com/pollyolly/VUE3-DEMO/blob/main/App.vue)
