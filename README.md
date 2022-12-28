@@ -28,13 +28,22 @@ const addButton = () => {
 <script>
 import {ref} from 'vue';
 setup(){  //setup Composition Api
+     const operationDisplay = ref('');
+     const operation = ref('');
      const count = ref(0)
      const substractButton = () =>{
           count.value = count.value - 1;
+          operation.value = 'subtract';
      }
      const addButton = () => {
           count.value = count.value + 1;
+          operation.value = 'add';
      }
+     
+     watch(operation, (opt) =>{
+          operationDisplay.value = (opt=='add')? 'Addition': 'Subtract';
+     })
+     
      return {
           count,
           substractButton,
