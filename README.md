@@ -102,7 +102,7 @@ export default ({
 - Use for existing Data
 - Do not use for fetching Data
 ```
-[Watch](https://vuejs.org/api/reactivity-core.html#watch)
+[Watch](https://vuejs.org/guide/essentials/watchers.html)
 ```
 - Can be used for fetching Data
 - Can monitor state,ref, variable etc. changes
