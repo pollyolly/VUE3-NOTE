@@ -115,3 +115,5 @@ export default ({
 [VUE PATTENRS](https://learn-vuejs.github.io/vue-patterns/patterns/#handling-errors)
 
 [PINIA](https://www.youtube.com/watch?v=JGC7aAC-3y8)
+
+[Awesome Vue](https://fe-tool.com/en-us/awesome-vue-learning-course/)
