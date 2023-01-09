@@ -119,6 +119,8 @@ export default ({
 [Awesome Vue](https://fe-tool.com/en-us/awesome-vue-learning-course/)
 
 ### Web Framework
+
 [GridSome](https://github.com/gridsome/gridsome)
+- Wordpress [demo](https://wonderful-montalcini-a601bf.netlify.app/)
 
 [Nuxt](https://nuxtjs.org/)
