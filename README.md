@@ -117,3 +117,8 @@ export default ({
 [PINIA](https://www.youtube.com/watch?v=JGC7aAC-3y8)
 
 [Awesome Vue](https://fe-tool.com/en-us/awesome-vue-learning-course/)
+
+### Web Framework
+[GridSome](https://github.com/gridsome/gridsome)
+
+[Nuxt](https://nuxtjs.org/)
