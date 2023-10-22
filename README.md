@@ -1,7 +1,7 @@
 ## VUE3
 
 ### Create Project
-```
+```vim
 (Answered No)
 $npm init vue@latest
 $cd vue-demo
@@ -9,7 +9,7 @@ $npm install
 $npm run dev
 ```
 Composition Api (New)
-```
+```vue
 //Composition Api
 <script setup> //setup Composition Api
 import {ref} from 'vue';
@@ -23,7 +23,7 @@ const addButton = () => {
 </script>
 
 ```
-```
+```vue
 //Composition Api
 <script>
 import {ref} from 'vue';
@@ -59,7 +59,7 @@ setup(){  //setup Composition Api
 
 ```
 Options Api
-```
+```vue
 <script>
 //Options Api
 export default ({
@@ -79,7 +79,7 @@ export default ({
 })
 </script>
 ```
-```
+```vue
 <template>
   <main>
         <h1>{{ count }}</h1>
